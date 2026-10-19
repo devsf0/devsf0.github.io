@@ -42,8 +42,8 @@ We use a modern tech stack to ensure reliability, performance, and cross-platfor
 
 ## 🌐 Connect with Us
 
-* **Website:** [Dev-SF Official Site](#) *(Add your link here)*
-* **GitHub:** [@faisalrehr](https://github.com/faisalrehr)
+* **Website:** [Dev-SF Official Site](https://devsf0.github.io/)
+* **GitHub:** [@DevSF](https://github.com/devsf0)
 
 ---
 
